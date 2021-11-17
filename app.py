@@ -5,7 +5,7 @@ import numpy
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 from tensorflow.keras.layers import LSTM
-from keras.models import load_model
+
 from sklearn.preprocessing import MinMaxScaler
 import numpy as np
 import keras.models
